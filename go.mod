@@ -1,5 +1,5 @@
-module github.com/golang-templates/seed
+module github.com/mathiasHillmann/go-kafka
 
 go 1.16
 
-require github.com/stretchr/testify v1.7.0
+require github.com/segmentio/kafka-go v0.4.21 // indirect
